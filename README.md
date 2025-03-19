@@ -73,4 +73,24 @@
             </div>
 </section>Arquivo Nacional Brasileiro (Domínio público or Domínio público), via Wikimedia Commons
 Caetano Veloso no III Festival da Música Popular
+            <div class="row justify-content-md-center">
+                    <div class="col-md-4">
+                            <img src="img/lossy-page1-640px-Jorge_Ben_e_o_Trio_Mocotó_no_Teatro_da_Lagoa,_1971.tif.jpg"
+                                    class="img-fluid rounded-5" loading="lazy">
+                    </div>
+                    <div class="col-md-4">
+                            <img src="img/lossy-page1-640px-Os_Mutantes_2.tif.jpg" class="img-fluid rounded-5"
+                                    loading="lazy">
+                    </div>
+            </div>
+            <div class="row mt-4  justify-content-md-center">
+                    <div class="col-md-4">
+                            <img src="img/lossy-page1-640px-Gilberto_Gil_nos_anos_1960.tif.jpg" class="img-fluid rounded-5" loading="lazy">
+                    </div>
+                    <div class="col-md-4">
+                            <img src="img/lossy-page1-640px-Caetano_Veloso_no_III_Festival_da_Música_Popular.tif.jpg"
+                                    class="img-fluid rounded-5" loading="lazy">
+                    </div>
+            </div>
+     </div>
 
