@@ -71,4 +71,6 @@
                 </div>
                 <img src="img/lossy-page1-640px-Os_Mutantes.tif (1).png" alt="A imagem apresenta o grupo musical Os mutantes, sao tres pessoas cantando em  dois microfones" title="Os mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
             </div>
-</section>
+</section>Arquivo Nacional Brasileiro (Domínio público or Domínio público), via Wikimedia Commons
+Caetano Veloso no III Festival da Música Popular
+
